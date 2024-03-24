@@ -1,2 +1,3 @@
 # Dashboard-Bike-Portfolio-Project
 This is my simple portfolio project of dashboard bike using Excel.
+This project involves data cleaning tasks such as removing duplicates and standardizing data in a bike dataset using Excel. It also includes creating pivot tables to analyze specific data points of interest. The main highlight is the creation of a simple dashboard that displays the average income per purchase, customer age, and the count of purchased bikes based on marital status, region, and education. The dashboard provides a clear overview of key metrics related to bike purchases, allowing for easy visualization and analysis.
